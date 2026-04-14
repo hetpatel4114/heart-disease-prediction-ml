@@ -12,4 +12,4 @@ This project uses Machine Learning to predict heart disease based on patient dat
 - User-friendly web interface
 
 ## How to Run
-streamlit run app.py
+python -m streamlit run app.py
